@@ -1,0 +1,2 @@
+Possible problème de texture ( Color * AO //Principled BSDF)
+Possible problème de scale
